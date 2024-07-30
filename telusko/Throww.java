@@ -18,7 +18,7 @@ public class Throww {
         catch(ArithmeticException e){
             // System.out.println("Cannot divide by zero");
             j=18/1;
-            System.out.println("Thats the default output"+e);
+            System.out.println("Thats the default output "+e);
             //  here we are trying to handle the exception
             // but what if we have case of 0 output then it will have no exception but what if we want to call the catch block without the exception to avoid the zero value
              
