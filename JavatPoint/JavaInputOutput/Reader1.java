@@ -13,7 +13,7 @@ public class Reader1 {
             }
             reader.close();
         } catch (Exception e) {
-            System.out.println(e.getMessage());
+            System.out.println(e);
         }
     }
 }
