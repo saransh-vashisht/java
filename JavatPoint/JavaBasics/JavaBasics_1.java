@@ -10,5 +10,5 @@ public class JavaBasics_1 {
     }
 
     // These are the internal classloaders provided by Java. If you want to create your own classloader, you need to extend the ClassLoader class.
-    
+     
 }
