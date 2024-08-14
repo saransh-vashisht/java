@@ -52,5 +52,7 @@ public class Inheritance_6 {
 // Agggregation is basically inheriting the class as the object and then we can use its methods 
 
 // When use Aggregation?
-// Code reuse is also best achieved by aggregation when there is no is-a relationship
-// Inheritance should be used only if the relationship is-a maintained throughout the lifetime of object involved; otherwise
+// Code reuse is also best achieved by aggregation when there is no is-a relationship.
+
+// Inheritance should be used only if the relationship is-a maintained throughout the lifetime of object involved; otherwise, aggregation is the best choice
+
