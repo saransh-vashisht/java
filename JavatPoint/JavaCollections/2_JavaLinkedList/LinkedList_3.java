@@ -81,7 +81,7 @@ public class LinkedList_3 {
         // Removing all the elements available in the list
         ll.clear();
         System.out.println("After invoking clear() method: "+ ll);
-        z
+        
 
 
 
