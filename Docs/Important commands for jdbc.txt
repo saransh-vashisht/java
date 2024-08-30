@@ -1,0 +1,12 @@
+
+
+javac -cp ".;C:\Users\Saransh\java\telusko\JDBC\JDBC_Example2\lib\mysql-connector-j-9.0.0.jar" App.java
+
+java -cp ".;C:\Users\Saransh\java\telusko\JDBC\JDBC_Example\jdbc_example\lib\mysql-connector-j-9.0.0.jar" App
+
+
+com.mysql.cj.jdbc.Driver
+
+
+
+"
